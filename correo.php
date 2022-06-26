@@ -1,6 +1,6 @@
 <?php
 
-$Destino = "ivonnesumano3@gmail.com";
+$Destino = "ivonnesumano.3@gmail.com";
 $name = $_POST['name'];
 $subject = $_POST['subject'];
 $email = $_POST['email'];
